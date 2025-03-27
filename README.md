@@ -1,6 +1,6 @@
 # Sentiment Analysis
 ## src/analysis.py - primitive ML setup. 
-### covering 
+### Covers 
 1. Dataset - Lists
 2. Tokenization
 3. Vocabulary
