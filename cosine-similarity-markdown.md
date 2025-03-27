@@ -9,6 +9,7 @@ In text analysis, documents are often represented as vectors in a high-dimension
 Consider two simple documents:
 
 Document 1: `"I love artificial intelligence"`
+
 Document 2: `"I enjoy machine learning"`
 
 To convert these documents into vector form, we first identify a vocabulary consisting of all unique words from both documents:
@@ -50,6 +51,7 @@ Using the vectors we defined earlier:
 
 ### Step 1: Dot Product
 Doc 1 Vector = `[1, 1, 0, 1, 1, 0, 0]`
+
 Doc 2 Vector = `[1, 0, 1, 0, 0, 1, 1]`
 
 ```
